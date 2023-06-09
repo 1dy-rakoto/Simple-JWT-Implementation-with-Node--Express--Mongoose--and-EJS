@@ -17,13 +17,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/iamshaunjp/node-express-jwt-auth.git"
+    "url": "git+https://github.com/1dy-rakoto/Simple-JWT-Implementation-with-Node--Express--Mongoose--and-EJS.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/iamshaunjp/node-express-jwt-auth/issues"
+    "url": https://github.com/1dy-rakoto/Simple-JWT-Implementation-with-Node--Express--Mongoose--and-EJS/issues"
   },
-  "homepage": "https://github.com/iamshaunjp/node-express-jwt-auth#readme"
+  "homepage": "https://github.com/1dy-rakoto/Simple-JWT-Implementation-with-Node--Express--Mongoose--and-EJS#readme"
 }
