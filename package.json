@@ -1,5 +1,5 @@
 {
-  "name": "node-express-jwt-auth",
+  "name": "Simple-JWT-Implementation-with-Node--Express--Mongoose--and-EJS",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
@@ -21,9 +21,7 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": https://github.com/1dy-rakoto/Simple-JWT-Implementation-with-Node--Express--Mongoose--and-EJS/issues"
+  "license": "MIT",
   },
   "homepage": "https://github.com/1dy-rakoto/Simple-JWT-Implementation-with-Node--Express--Mongoose--and-EJS#readme"
 }
